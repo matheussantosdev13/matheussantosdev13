@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo ao meu perfil no GitHub!  
 
-<!--
-**matheussantosdev13/matheussantosdev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante e desenvolvedor iniciante em **Desenvolvimento de Software**, apaixonado por tecnologia, aprendizado contínuo e por criar projetos impactantes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+🌱 Atualmente aprendendo:  
+- **Python 🐍**  
+- **JavaScript**  
+- **HTML & CSS**
+
+💻 Ferramentas e Tecnologias:  
+- Visual Studio Code  
+- Git & GitHub  
+- Django  
+- SQL  
+
+🎯 Objetivos:  
+- Desenvolver APIs funcionais e projetos web modernos.  
+- Colaborar com a comunidade tech para crescer juntos.  
+
+---
+
+## 📊 Estatísticas GitHub  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheussantosdev13&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
+
+---
+
+## 📫 Como me encontrar  
+- 🌐 [LinkedIn](https://linkedin.com/in/matheussantos-tech)  
+- 📧 Email: matheussaanttos77@gmail.com
