@@ -25,7 +25,7 @@ Sou um estudante e desenvolvedor iniciante em **Desenvolvimento de Software**, a
 ## 📊 Estatísticas GitHub  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheussantosdev13&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smatheussantosdev13&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosdev13&layout=compact&theme=radical)
 ![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=matheussantosdev13)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheussantosdev13&show_icons=true&theme=dark)
 ![Contribuidor Ativo](https://img.shields.io/badge/contribuidor-ativo-brightgreen)
