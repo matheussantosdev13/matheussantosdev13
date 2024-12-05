@@ -9,7 +9,7 @@ Sou um estudante e desenvolvedor iniciante em **Desenvolvimento de Software**, a
 - **Python 🐍**  
 - **JavaScript**  
 - **HTML & CSS**
-- - **Java** 
+- **Java** 
 
 💻 Ferramentas e Tecnologias:  
 - Visual Studio Code  
